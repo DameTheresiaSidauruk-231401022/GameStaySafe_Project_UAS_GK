@@ -3,6 +3,8 @@ Game Stay Safe 2D adalah game bertema kesehatan di mana pemain mengendalikan kar
 Game ini merupakan proyek Unity 2D yang memenuhi kebutuhan dasar Gerak, Interaksi, Procedural Generation, Collision, Game Over System, dan Score System.
 
 
+Anggota :
+
 Azlinsyah Fadhilah Meran      231401013
 
 Dame Theresia Rejeki Sidauruk 231401022
